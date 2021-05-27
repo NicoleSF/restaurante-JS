@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+  background-color: #f0f8ff;
+}
+
+img {
+  margin-top: 20px;
+  height: 80px;
+}
+
+div h1 {
+  font-family: "Sigmar One", cursive;
+  color: #daa520;
+  margin-top: 0;
+}
+
+h2 {
+  color: #708090;
+}
+
+.input1,
+label {
+  display: block;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.ínput2 {
+  display: block;
+}
+
+.botao {
+  margin-top: 30px;
+  padding: 12px 50px 12px 50px;
+  border-radius: 7px;
+  font-size: 20px;
+  background-color: #daa520;
+  color: white;
+}
+
+.promocao {
+  background-color: #d3d3d3;
+  border-radius: 7px;
+  border: dotted 2px;
+  margin-top: 30px;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 20px 20px 20px 20px;
+}
